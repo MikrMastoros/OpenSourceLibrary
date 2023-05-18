@@ -4,3 +4,8 @@ Simple application to get involved in the Python programming language and some P
 ***Developed in Microsoft Visual Studio Code***
 1. You will need to install Python to your Computer
 2. Compile the code provided and you are ready to go
+
+
+
+***This program uses the tkinter library, which can be found at:
+https://docs.python.org/3/library/tkinter.html
